@@ -1,0 +1,74 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1      2005_-_UEB.test      #laragon magic!
+127.0.0.1      2007-09-10_-_taocodex.test #laragon magic!
+127.0.0.1      2007-09-10_-_taocodexb.test #laragon magic!
+127.0.0.1      2016-06-27_-_Syriac_qenshrin.test #laragon magic!
+127.0.0.1      2017-2020_-_IEPSCFN_-_Web_Developer.test #laragon magic!
+127.0.0.1      2019-11-24_-_twitter.test #laragon magic!
+127.0.0.1      2019-12-20_-_VEGAS_Movie_Studio.test #laragon magic!
+127.0.0.1      2020-01-15_-_CEDH.test #laragon magic!
+127.0.0.1      2020-02-19_-_Stage_Syn-exis.test #laragon magic!
+127.0.0.1      2020-03-20_-_2Infinity.test #laragon magic!
+127.0.0.1      2020-05-01_-_FaceBookInc.test #laragon magic!
+127.0.0.1      2020-05-05_-_git-hub_issues_shared-pictures_-_img.test #laragon magic!
+127.0.0.1      2020-06-19_-_Joystick_P.C._magazine.test #laragon magic!
+127.0.0.1      2020-06_-_T.F.E.test #laragon magic!
+127.0.0.1      2020-09-21_-_Italianoa.test #laragon magic!
+127.0.0.1      2020-09-22_-_Espagnole.test #laragon magic!
+127.0.0.1      2020-12-14_-_Gaz-men_blog.test #laragon magic!
+127.0.0.1      2021-04-03_-_Sexy.test #laragon magic!
+127.0.0.1      2021-08-30_-_FoxReplace_ndrrim_pjalorit.test #laragon magic!
+127.0.0.1      2022-02-04_-_23H51_-_Starter_Symfony_6.test #laragon magic!
+127.0.0.1      2022-02-14_-_14H16_-_Starter_Symfony_5.4.test #laragon magic!
+127.0.0.1      2022-02-14_-_14H51_-_git-hub_assets.test #laragon magic!
+127.0.0.1      2022-10-12_-_18H26_-_CSS_Stylus_es-tens-ion.test #laragon magic!
+127.0.0.1      assets.test          #laragon magic!
+127.0.0.1      AutoHotKey.test      #laragon magic!
+127.0.0.1      ecodepannage.test    #laragon magic!
+127.0.0.1      test.test            #laragon magic!
+127.0.0.1      testa.test           #laragon magic!
+127.0.0.1      testotesta.test      #laragon magic!
+127.0.0.1      Test_5.7.1.test      #laragon magic!
+127.0.0.1      tmp.test             #laragon magic!
+127.0.0.1      wordpress.test       #laragon magic!
+127.0.0.1      wordpress2.test      #laragon magic!
+
+127.0.0.1      france24.com # 2023‑11‑11 ‒ 07H26 (T.T.C.+1) {P.S. Marche e‑pas.}
+127.0.0.1      www.france24.com # 2023‑11‑13 ‒ 06H43 (T.T.C.+1) {Marche ! Merci https://helpdeskgeek.com/how-to/block-websites-using-hosts-file/}
+127.0.0.1      www.youtube.com/@FRANCE24 # 2023‑12‑23 ‒ 06H41 (T.T.C.+1)
+127.0.0.1      www.youtube.com/@FRANCE24/videos # 2023‑12‑23 ‒ 06H41 (T.T.C.+1)
+
+127.0.0.1      www.rtbf.be # 2023‑12‑19 ‒ 19H29 (T.T.C.+1)
+127.0.0.1      www.auvio.be # 2023‑12‑19 ‒ 19H29 (T.T.C.+1)
+
+# 2023‑12‑23 ‒ 07H59 (T.T.C.+1) : https://youtube.com/watch?v=IJr2DcffquI
+127.0.0.1      data.microsoft.com
+127.0.0.1      msftconnecttest.com
+127.0.0.1      azureedge.net
+127.0.0.1      activity.windows.com
+127.0.0.1      bingapis.com
+127.0.0.1      msedge.net
+127.0.0.1      assets.msn.com
+127.0.0.1      scorecardresearch.com
+127.0.0.1      edge.microsoft.com
+127.0.0.1      data.msn.com
